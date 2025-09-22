@@ -1,0 +1,24 @@
+total 40
+drwxrwxrwt  9 root  root  4096 Sep 22 15:07 .
+drwxr-xr-x 22 root  root  4096 Sep 22 14:54 ..
+drwxrwxrwx  2 root  root    60 Sep 22 14:54 .X11-unix
+-rw-r--r--  1 manue manue  569 Sep 22 15:07 Microsoft-MIEngine-Cmd-5s5bs1wo.qyp
+-rw-r--r--  1 manue manue  569 Sep 22 14:57 Microsoft-MIEngine-Cmd-md0jkgs5.ddb
+prw-------  1 manue manue    0 Sep 22 14:57 Microsoft-MIEngine-In-b4ppevq3.nlx
+prw-------  1 manue manue    0 Sep 22 15:07 Microsoft-MIEngine-In-jpo1dk5j.fd1
+prw-------  1 manue manue    0 Sep 22 15:09 Microsoft-MIEngine-Out-1n40trxr.fhq
+prw-------  1 manue manue    0 Sep 22 15:02 Microsoft-MIEngine-Out-vcugwlc2.qnn
+prw-------  1 manue manue    0 Sep 22 15:07 Microsoft-MIEngine-Pid-dhc0y3gw.a44
+prw-------  1 manue manue    0 Sep 22 14:57 Microsoft-MIEngine-Pid-n501t11p.h05
+prwx------  1 manue manue    0 Sep 22 14:57 clr-debug-pipe-1201-17501-in
+prwx------  1 manue manue    0 Sep 22 14:57 clr-debug-pipe-1201-17501-out
+prwx------  1 manue manue    0 Sep 22 15:07 clr-debug-pipe-3955-78635-in
+prwx------  1 manue manue    0 Sep 22 15:07 clr-debug-pipe-3955-78635-out
+srw-------  1 manue manue    0 Sep 22 14:57 dotnet-diagnostic-1201-17501-socket
+srw-------  1 manue manue    0 Sep 22 15:07 dotnet-diagnostic-3955-78635-socket
+drwx------  2 root  root  4096 Sep 22 14:54 snap-private-tmp
+drwx------  3 root  root  4096 Sep 22 14:54 systemd-private-8e23028efcea444a9ce1ce61c11c8aa3-systemd-logind.service-S8Rbfz
+drwx------  3 root  root  4096 Sep 22 14:54 systemd-private-8e23028efcea444a9ce1ce61c11c8aa3-systemd-resolved.service-ITJSCf
+drwx------  3 root  root  4096 Sep 22 14:54 systemd-private-8e23028efcea444a9ce1ce61c11c8aa3-systemd-timesyncd.service-CwJ0qP
+drwx------  3 root  root  4096 Sep 22 14:54 systemd-private-8e23028efcea444a9ce1ce61c11c8aa3-wsl-pro.service-czKYnI
+drwxr-xr-x  2 manue manue 4096 Sep 22 14:57 {111D6A27-8711-4B2D-8A3E-07C60E53AC4A}
